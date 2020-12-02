@@ -18,8 +18,6 @@ Frameworks⬇
   <li>ReactJS</li>
   <li>Unity</li>
 </ul>
-Always remember:
-> Programming for Passion
 
 Uses <a href='https://firebase.google.com/'>Firebase</a> for Online Databases in my apps!<br/>
 Feel free to connect!
@@ -29,3 +27,5 @@ Feel free to connect!
 Studies in 10th grade and a JEE aspirant!
 <br/>
 Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!
+<hr/>
+Show some ❤ by Starring my Repos and following me!

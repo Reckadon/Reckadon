@@ -2,7 +2,7 @@
 <h2>Also known as Reckadon!😎</h2>
 <h3>Java is my Bread and Butter☕</h2>
 Self taught Programmer💻and Tech Geek👨‍💻! <br/>
-Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>! <br/>
+Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>! <hr/>
 Languages⬇
 <ul>
   <li>Java</li>
@@ -19,7 +19,7 @@ Frameworks⬇
   <li>Unity</li>
 </ul>
 
-Uses <a href='https://firebase.google.com/'>Firebase</a> for Online Databases in my apps!<br/>
+Uses <a href='https://firebase.google.com/'>Firebase</a> for Online Databases in my apps!<hr/>
 Feel free to connect!
 <ul>
   <li><a href='https://www.instagram.com/its_romit.m/'>Instagram</a></li>
@@ -28,4 +28,4 @@ Studies in 10th grade and a JEE aspirant!
 <br/>
 Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!
 <hr/>
-Show some ❤ by Starring my Repos and following me!
+# Show some ❤ by Starring my Repos and following me!

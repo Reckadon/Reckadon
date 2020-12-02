@@ -25,12 +25,13 @@ Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?publi
 
 Uses <a href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>
 Feel free to connect!💃
-
   <a href='https://www.instagram.com/its_romit.m/'>
-    <img src='./img/insta.png' align='left' width='30px'>
-    </a>
-  <a href='https://twitter.com/MohaneRomit'><img src='./img/twitter.png' align='left' width='35px'></a>
-<br>
+    <img src='./img/insta.png' align='left' width='40px'>
+  </a>
+  <a href='https://twitter.com/MohaneRomit'>
+    <img src='./img/twitter.png' align='left' width='75px'>
+  </a>
+<br/>
 Studies in 10th grade and a JEE aspirant!📚
 <br/>
 Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!🕸

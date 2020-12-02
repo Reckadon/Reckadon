@@ -15,11 +15,14 @@ Frameworks⬇
   <li>JavaFX</li>
   <li>Swing</li>
   <li>Android Native</li>
-  <li>React</li>
+  <li>ReactJS</li>
   <li>Unity</li>
 </ul>
+Uses <a href='https://firebase.google.com/'>Firebase</a> for Online Databases in my apps!<br/>
 Feel free to connect!
 <ul>
   <li><a href='https://www.instagram.com/its_romit.m/'>Instagram</a></li>
 </ul>
 Studies in 10th grade and a JEE aspirant!
+<br/>
+Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!

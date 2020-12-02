@@ -18,6 +18,7 @@ Frameworks⬇
   <li>ReactJS</li>
   <li>Unity</li>
 </ul>
+Always remember:
 > Programming for Passion
 
 Uses <a href='https://firebase.google.com/'>Firebase</a> for Online Databases in my apps!<br/>

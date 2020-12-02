@@ -3,8 +3,8 @@
 
 <ul>
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
-<li>Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
-  <li>Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!🕸</li>
+<li>Done some Freelancing work too on <a target="_blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
+  <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
   <li>Studies in 10th grade and a JEE aspirant!📚</li>
 
 </ul>
@@ -30,12 +30,12 @@
   <li>Unity</li>
 </ul></details>
 
-Uses <a href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>
+Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>
 ### Feel free to connect!💃
-  <a href='https://www.instagram.com/its_romit.m/'>
+  <a target="_blank" href='https://www.instagram.com/its_romit.m/'>
     <img src='./img/insta.png' align='left' width='40px'>
   </a>
-  <a href='https://twitter.com/MohaneRomit'>
+  <a target="_blank" href='https://twitter.com/MohaneRomit'>
     <img src='./img/twitter.jpg' align='left' width='40px'>
   </a>
 <br/>

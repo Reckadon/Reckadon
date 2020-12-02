@@ -1,8 +1,15 @@
 # Myself <a href='https://github.com/Reckadon'>Romit Mohane</a>👋!
 <h2>Also known as Reckadon!😎</h2>
 
-Self taught Programmer💻and Tech Geek👨‍💻! <br/>
-Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>! <hr/>
+<ul>
+<li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
+<li>Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
+  <li>Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!🕸</li>
+  <li>Studies in 10th grade and a JEE aspirant!📚</li>
+
+</ul>
+
+  <hr/>
 <details open>
 <summary>Which Languages have I learned? ⬇</summary>
 <ul>
@@ -33,10 +40,6 @@ Uses <a href='https://firebase.google.com/'>Firebase</a>🔥 for Online Database
   </a>
 <br/>
 <br>
-Studies in 10th grade and a JEE aspirant!📚
-<br/>
-Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!🕸
-
 <h4>Weapons of Choice ⚔🏹</h4>
 IntelliJ, PyCharm, VSCode and Android Studio!
 <hr>

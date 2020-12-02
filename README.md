@@ -29,7 +29,7 @@ Uses <a href='https://firebase.google.com/'>Firebase</a>🔥 for Online Database
     <img src='./img/insta.png' align='left' width='40px'>
   </a>
   <a href='https://twitter.com/MohaneRomit'>
-    <img src='./img/twitter.png' align='left' width='75px'>
+    <img src='./img/twitter.jpg' align='left' width='40px'>
   </a>
 <br/>
 <br>

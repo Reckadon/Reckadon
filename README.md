@@ -4,16 +4,17 @@
 Self taught Programmer💻and Tech Geek👨‍💻! <br/>
 Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>! <hr/>
 <details open>
-<summary>Languages ⬇</summary>
+<summary>Which Languages have I learned? ⬇</summary>
 <ul>
   <li>Java</li>
   <li>Python</li>
   <li>JavaScript</li>
   <li>C#</li>
+  <li>Everyone learns HTML and CSS also 🤣</li>
 </ul>
   </details>
   <details open>
-  <summary>Frameworks ⬇</summary>
+  <summary>Which Frameworks have I learned? ⬇</summary>
 <ul>
   <li>JavaFX</li>
   <li>Swing</li>

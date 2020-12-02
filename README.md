@@ -10,7 +10,7 @@
 </ul>
 
   <hr/>
-<details open>
+<details >
 <summary>Which Languages have I learned? ⬇</summary>
 <ul>
   <li>Java</li>
@@ -20,7 +20,7 @@
   <li>Everyone learns HTML and CSS also 🤣</li>
 </ul>
   </details>
-  <details open>
+  <details >
   <summary>Which Frameworks have I learned? ⬇</summary>
 <ul>
   <li>JavaFX</li>

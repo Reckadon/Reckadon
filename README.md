@@ -3,7 +3,7 @@
 
 Self taught Programmer💻and Tech Geek👨‍💻! <br/>
 Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>! <hr/>
-<details>
+<details open>
 <summary>Languages ⬇</summary>
 <ul>
   <li>Java</li>
@@ -12,7 +12,7 @@ Done some Freelancing work too on <a href='https://www.fiverr.com/reckadon?publi
   <li>C#</li>
 </ul>
   </details>
-  <details>
+  <details open>
   <summary>Frameworks ⬇</summary>
 <ul>
   <li>JavaFX</li>
@@ -33,7 +33,7 @@ Studies in 10th grade and a JEE aspirant!
 Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!
 
 <h4>Weapons of Choice</h4>
-<h5>IntelliJ, PyCharm, VSCode and Android Studio!</h5>
+IntelliJ, PyCharm, VSCode and Android Studio!
 
 <hr/>
 <h2>Show some ❤ by Starring my Repos and following me!<h2/>

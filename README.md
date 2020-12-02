@@ -23,6 +23,7 @@ Uses <a href='https://firebase.google.com/'>Firebase</a> for Online Databases in
 Feel free to connect!
 <ul>
   <li><a href='https://www.instagram.com/its_romit.m/'>Instagram</a></li>
+  <li><a href='https://twitter.com/MohaneRomit'>Twitter</a></li>
 </ul>
 Studies in 10th grade and a JEE aspirant!
 <br/>

@@ -28,4 +28,4 @@ Studies in 10th grade and a JEE aspirant!
 <br/>
 Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!
 <hr/>
-# Show some ❤ by Starring my Repos and following me!
+<h2>Show some ❤ by Starring my Repos and following me!<h2/>

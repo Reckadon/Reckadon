@@ -37,7 +37,7 @@ Currently learning and practicing <a href='https://reactjs.org/'>ReactJS</a>!ðŸ•
 IntelliJ, PyCharm, VSCode and Android Studio!
 <hr>
 
-[![Reckadon's github stats](https://github-readme-stats.vercel.app/api?username=Reckadon)](https://github.com/anuraghazra/github-readme-stats)
+[![Reckadon's github stats](https://github-readme-stats.vercel.app/api?username=Reckadon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr/>

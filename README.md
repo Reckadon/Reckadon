@@ -33,13 +33,13 @@
 Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>
 ### Feel free to connect!💃
   <a target="_blank" href='https://www.instagram.com/its_romit.m/'>
-    <img src='./img/insta.png' align='left' width='40px'>
+    <img alt='instagram' src='./img/insta.png' align='left' width='40px'>
   </a>
   <a target="_blank" href='https://twitter.com/MohaneRomit'>
-    <img src='./img/twitter.jpg' align='left' width='40px'>
+    <img alt='twitter' src='./img/twitter.jpg' align='left' width='40px'>
   </a>
   <a target="_blank" href='https://codepen.io/reckadon'>
-    <img src='./img/codepen.jpg' align='left' width='40px'>
+    <img alt='codepen' src='./img/codepen.png' align='left' width='40px'>
   </a>
 <br/>
 <br>

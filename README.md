@@ -39,7 +39,7 @@ Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for
     <img alt='twitter' src='./img/twitter.jpg' align='left' width='40px'>
   </a>
   <a target="_blank" href='https://codepen.io/reckadon'>
-    <img alt='codepen' src='./img/codepen.png' align='left' width='40px'>
+    <img alt='codepen' src='./img/codepen.png' align='left' height='43px'>
   </a>
 <br/>
 <br>

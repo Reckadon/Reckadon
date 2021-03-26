@@ -24,9 +24,9 @@
   <summary>Which Frameworks have I learned? ⬇</summary>
 <ul>
   <li>JavaFX</li>
-  <li>Swing</li>
-  <li>Android Native</li>
   <li>ReactJS</li>
+  <li>Android Native</li>
+  <li>Swing</li>
   <li>Unity</li>
 </ul></details>
 

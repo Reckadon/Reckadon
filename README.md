@@ -36,7 +36,7 @@ Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for
     <img alt='instagram' src='./img/insta.png' align='left' width='40px'>
   </a>
   <a target="_blank" href='https://stackoverflow.com/users/14729894/romit-mohane' width ='40px'>
-    <img alt='Stack Overflow' src='./img/stackOverflowBnW.png' align='left' height='40px' width='40px'>
+    <img alt='Stack Overflow' src='./img/stackOverflowBnW.png' align='left' height='44px' width='44px'>
   </a>
   <a target="_blank" href='https://twitter.com/MohaneRomit'>
     <img alt='twitter' src='./img/twitter.jpg' align='left' width='40px'>

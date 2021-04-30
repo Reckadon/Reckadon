@@ -5,7 +5,7 @@
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
 <li>Done some Freelancing work too on <a target="_blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
   <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
-  <li>Studies in 10th grade and is a JEE aspirant!📚</li>
+  <li>Studies in 11th grade and is a JEE aspirant!📚</li>
 
 </ul>
 
@@ -14,8 +14,8 @@
 <summary>Which Languages have I learned? ⬇</summary>
 <ul>
   <li>Java</li>
-  <li>Python</li>
   <li>JavaScript</li>
+  <li>Python</li>
   <li>C#</li>
   <li>Everyone learns HTML and CSS also 🤣</li>
 </ul>
@@ -27,7 +27,7 @@
   <li>ReactJS</li>
   <li>Android Native</li>
   <li>Swing</li>
-  <li>Unity</li>
+  <li>Unity (ik it is a game engine lol)</li>
 </ul></details>
 
 Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>

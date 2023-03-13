@@ -5,7 +5,7 @@
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
 <li>Done some Freelancing work too on <a target="_blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
   <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
-  <li>Studies in 11th grade and is a JEE aspirant!📚</li>
+  <li>Studies in 12th grade and is a JEE aspirant!📚</li>
 
 </ul>
 
@@ -16,6 +16,7 @@
   <li>Java</li>
   <li>JavaScript</li>
   <li>Python</li>
+  <li>C++</li>
   <li>C#</li>
   <li>Everyone learns HTML and CSS also 🤣</li>
 </ul>

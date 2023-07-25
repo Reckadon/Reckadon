@@ -5,7 +5,7 @@
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
 <li>Done some Freelancing work too on <a target="_blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
   <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
-  <li>Studies in 12th grade and is a JEE aspirant!📚</li>
+  <li>Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓</li>
 
 </ul>
 

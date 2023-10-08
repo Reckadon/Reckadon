@@ -4,7 +4,7 @@
 <ul>
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
 <li>Done some Freelancing work too on <a target="_blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
-  <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
+  <li>Currently learning and practicing <a target="_blank" href='https://flutter.dev/'>Flutter</a>!🕸</li>
   <li>Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓</li>
 
 </ul>
@@ -16,6 +16,7 @@
   <li>Java</li>
   <li>JavaScript</li>
   <li>Python</li>
+  <li>Dart</li>
   <li>C++</li>
   <li>C#</li>
   <li>Everyone learns HTML and CSS also 🤣</li>
@@ -26,6 +27,7 @@
 <ul>
   <li>JavaFX</li>
   <li>ReactJS</li>
+  <li>Flutter</li>
   <li>Android Native</li>
   <li>Swing</li>
   <li>Unity (ik it is a game engine lol)</li>

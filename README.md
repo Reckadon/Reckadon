@@ -14,7 +14,7 @@
 <summary>Which Languages have I learned? ⬇</summary>
 <ul>
   <li>Java</li>
-  <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>Python</li>
   <li>Dart</li>
   <li>C++</li>

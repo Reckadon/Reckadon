@@ -19,18 +19,19 @@
   <li>Dart</li>
   <li>C++</li>
   <li>C#</li>
-  <li>Everyone learns HTML and CSS also 🤣</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
   </details>
   <details >
   <summary>Which Frameworks have I learned? ⬇</summary>
 <ul>
-  <li>JavaFX</li>
   <li>ReactJS</li>
+  <li>JavaFX</li>
   <li>Flutter</li>
   <li>Android Native</li>
   <li>Swing</li>
-  <li>Unity (ik it is a game engine lol)</li>
+  <li>Unity (A Game Engine)</li>
 </ul></details>
 
 Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>

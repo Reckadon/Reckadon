@@ -1,13 +1,13 @@
 # Myself <a href='https://github.com/Reckadon'>Romit Mohane</a>👋!
-<h2>Also known as Reckadon!😎</h2>
+## Also known as Reckadon!😎
 
-<ul>
-<li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
-<li>Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
-  <li>Currently learning and practicing <a target="blank" href='https://svelte.dev/'>Svelte</a>!🤖</li>
-  <li>Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓</li>
+- Self taught Programmer💻and Tech Geek👨‍💻! 
+- Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
+- Currently learning and practicing <a target="blank" href='https://svelte.dev/'>Svelte</a>!🤖 and Machine Learning with [Python](https://docs.python.org/3/)!
+- Interested in **Machine Learning Applications in the development world!**
+- Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓
 
-</ul>
+
 
   <hr/>
 <details >

@@ -4,7 +4,7 @@
 <ul>
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
 <li>Done some Freelancing work too on <a target="_blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!</li>
-  <li>Currently learning and practicing <a target="_blank" href='https://flutter.dev/'>Flutter</a>!🕸</li>
+  <li>Currently learning and practicing <a target="_blank" href='https://svelte.dev/'>Svelte</a>!🤖</li>
   <li>Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓</li>
 
 </ul>

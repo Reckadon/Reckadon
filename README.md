@@ -3,7 +3,7 @@
 
 - Self taught Programmer💻and Tech Geek👨‍💻! 
 - Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
-- Currently learning and practicing <a target="blank" href='https://svelte.dev/'>Svelte</a>!🤖 and Machine Learning with [Python](https://docs.python.org/3/)!
+- Currently learning and practicing <a target="blank" href='https://svelte.dev/'>Svelte</a>, [ExpressJS](https://expressjs.com/) and [Socket.io](https://socket.io/)!🤖👨‍💻 and Machine Learning with [Python](https://docs.python.org/3/)!
 - Interested in **Machine Learning Applications in the development world!**
 - Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓
 

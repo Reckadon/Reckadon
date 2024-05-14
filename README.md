@@ -3,7 +3,7 @@
 
 - Self taught Programmer💻and Tech Geek👨‍💻! 
 - Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
-- Currently learning and practicing <a target="blank" href='https://svelte.dev/'>Svelte</a>, [ExpressJS](https://expressjs.com/) and [Socket.io](https://socket.io/)!🤖👨‍💻 and Machine Learning with [Python](https://docs.python.org/3/)!
+- Currently learning and practicing [Svelte](https://svelte.dev/)> and [Astro](https://astro.build/)!🤖👨‍💻!
 - Interested in **Machine Learning Applications in the development world!**
 - Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓
 
@@ -24,9 +24,11 @@
 </ul>
   </details>
   <details >
-  <summary>Which Frameworks have I learned? ⬇</summary>
+  <summary>Which Frameworks or Libraries have I learned? ⬇</summary>
 <ul>
   <li>ReactJS</li>
+  <li>ExpressJS</li>
+  <li>Socket.io</li>
   <li>JavaFX</li>
   <li>Flutter</li>
   <li>Android Native</li>

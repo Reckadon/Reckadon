@@ -3,7 +3,7 @@
 
 - Self taught Programmer💻and Tech Geek👨‍💻! 
 - Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
-- Currently learning and practicing [Svelte](https://svelte.dev/) and [Astro](https://astro.build/)!🤖👨‍💻!
+- Currently learning and practicing [Svelte](https://svelte.dev/) and [Astro](https://astro.build/) 🚀🤖👨‍💻!
 - Interested in **Machine Learning Applications in the development world!**
 - Fresher at Indian Institute of Technology, Gandhinagar 👨‍🎓
 

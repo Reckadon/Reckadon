@@ -14,7 +14,7 @@
 <summary>Which Languages have I learned? ⬇</summary>
 <ul>
   <li>Java</li>
-  <li>TypeScript</li>
+  <li>JavaScript/TypeScript</li>
   <li>Python</li>
   <li>Dart</li>
   <li>C++</li>
@@ -26,14 +26,16 @@
   <details >
   <summary>Which Frameworks or Libraries have I learned? ⬇</summary>
 <ul>
-  <li>ReactJS</li>
-  <li>ExpressJS</li>
-  <li>Socket.io</li>
-  <li>JavaFX</li>
-  <li>Flutter</li>
-  <li>Android Native</li>
-  <li>Swing</li>
-  <li>Unity (A Game Engine)</li>
+  <li><a href="https://react.dev/">ReactJS</a></li>
+  <li><a href="https://expressjs.com/">ExpressJS</a></li>
+  <li><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></li>
+  <li><a href="https://socket.io/">Socket.io</a></li>
+  <li><a href="https://openjfx.io/">JavaFX</a></li>
+  <li><a href="https://flutter.dev/">Flutter</a></li>
+  <li><a href="https://developer.android.com/">Android Native</a></li>
+  <li><a href="https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html">Swing</a></li>
+  <li><a href="https://www.chartjs.org/">Chart.js</a></li>
+  <li><a href="https://unity.com/">Unity (A Game Engine)</a></li>
 </ul></details>
 
 Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>

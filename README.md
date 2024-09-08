@@ -30,6 +30,9 @@
   <li><a href="https://expressjs.com/">ExpressJS</a></li>
   <li><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></li>
   <li><a href="https://socket.io/">Socket.io</a></li>
+  <li><a href="https://pandas.pydata.org/">Pandas</a></li>
+  <li><a href="https://scikit-learn.org/stable/">scikit-Learn</a></li>
+  <li><a href="https://numpy.org">NumPy</a></li>
   <li><a href="https://openjfx.io/">JavaFX</a></li>
   <li><a href="https://flutter.dev/">Flutter</a></li>
   <li><a href="https://developer.android.com/">Android Native</a></li>

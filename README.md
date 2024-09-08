@@ -3,7 +3,7 @@
 
 - Self taught Programmer💻and Tech Geek👨‍💻! 
 - Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
-- Currently learning and practicing [Svelte](https://svelte.dev/) and [Astro](https://astro.build/) 🚀🤖👨‍💻!
+- Currently learning and practicing [PyTorch](https://pytorch.org/) and [Astro](https://astro.build/) 🚀🤖👨‍💻!
 - Interested in **Machine Learning Applications in the dev space**
 - Sophomore at Indian Institute of Technology, Gandhinagar, department of Computer Science and Engineering 👨‍💻👨‍🎓
 
@@ -36,7 +36,6 @@
   <li><a href="https://openjfx.io/">JavaFX</a></li>
   <li><a href="https://flutter.dev/">Flutter</a></li>
   <li><a href="https://developer.android.com/">Android Native</a></li>
-  <li><a href="https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html">Swing</a></li>
   <li><a href="https://www.chartjs.org/">Chart.js</a></li>
   <li><a href="https://unity.com/">Unity (A Game Engine)</a></li>
 </ul></details>

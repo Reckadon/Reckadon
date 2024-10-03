@@ -7,22 +7,11 @@
 - Interested in **Machine Learning Applications in the dev space**
 - Sophomore at Indian Institute of Technology, Gandhinagar, department of Computer Science and Engineering 👨‍💻👨‍🎓
 
+---
+####  Which Languages have I learned? ⬇
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp,c,cs,html,css)]()
 
 
-  <hr/>
-<details >
-<summary>Which Languages have I learned? ⬇</summary>
-<ul>
-  <li>Java</li>
-  <li>JavaScript/TypeScript</li>
-  <li>Python</li>
-  <li>Dart</li>
-  <li>C++</li>
-  <li>C#</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ul>
-  </details>
   <details >
   <summary>Which Frameworks or Libraries have I learned? ⬇</summary>
 <ul>
@@ -42,18 +31,10 @@
 
 Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases in my apps!<hr/>
 ### Feel free to connect!💃
-  <a target="_blank" href='https://www.instagram.com/its_romit.m/'>
-    <img alt='instagram' src='./img/insta.png' align='left' width='40px'>
-  </a>
-  <a target="_blank" href='https://stackoverflow.com/users/14729894/romit-mohane' width ='40px'>
-    <img alt='Stack Overflow' src='./img/stackOverflowBnW.png' align='left' height='44px' width='44px'>
-  </a>
-  <a target="_blank" href='https://twitter.com/MohaneRomit'>
-    <img alt='twitter' src='./img/twitter.jpg' align='left' width='40px'>
-  </a>
-  <a target="_blank" href='https://codepen.io/reckadon'>
-    <img alt='codepen' src='./img/codepen.png' align='left' height='43px'>
-  </a>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/its_romit.m/)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14729894/romit-mohane)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/romit-mohane/)
+[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/reckadon)
 <br/>
 <br>
 <h4>Weapons of Choice ⚔🏹</h4>

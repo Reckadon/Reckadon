@@ -35,7 +35,7 @@ Uses <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14729894/romit-mohane)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/romit-mohane/)
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/reckadon)
-[![Kaggle](./img/kaggle_logo_blue_32x32.png)](https://www.kaggle.com/romitmohane)
+[![Kaggle](./img/kaggle_logo.png)](https://www.kaggle.com/romitmohane)
 <br/>
 <br>
 <h4>Weapons of Choice ⚔🏹</h4>

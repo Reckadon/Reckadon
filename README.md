@@ -9,7 +9,7 @@
 
 ---
 ####  Which Languages have I learned? ⬇
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp,c,cs,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp,c,go,cs,html,css)]()
 
 
   <details >

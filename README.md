@@ -44,6 +44,10 @@ IntelliJ, PyCharm, VSCode and Android Studio!
 
 [![Reckadon's github stats](https://github-readme-stats.vercel.app/api?username=Reckadon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### Holopins 📛
+[![An image of @reckadon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reckadon)](https://holopin.io/@reckadon)
 
-<hr/>
+---
+
 <h2>Show some ❤ by Starring my Repos and following me!<h2/>

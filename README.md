@@ -1,10 +1,10 @@
 # Myself <a href='https://github.com/Reckadon'>Romit Mohane</a>👋!
 ## Also known as Reckadon!😎
 
-- Self taught Programmer💻and Tech Geek👨‍💻! 
+- Artificial Intelligence student and Tech Geek👨‍💻! 
 - Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
-- Currently learning and practicing [PyTorch](https://pytorch.org/), [Go](https://go.dev/) and [Astro](https://astro.build/) 🚀🤖👨‍💻!
-- Interested in **Machine Learning Applications in the dev space**
+- Currently learning and practicing [Librosa](https://librosa.org/doc/latest/index.html) 🎵🤖👨‍💻!
+- Interested in **Artificial Intelligence Applications in the dev space**
 - Sophomore at Indian Institute of Technology, Gandhinagar, department of Computer Science and Engineering 👨‍💻👨‍🎓
 
 ---
@@ -16,7 +16,9 @@
   <summary>Which Frameworks or Libraries have I learned? ⬇</summary>
 <ul>
   <li><a href="https://react.dev/">ReactJS</a></li>
+  <li><a href="https://pytorch.org/">PyTorch</a></li>
   <li><a href="https://expressjs.com/">ExpressJS</a></li>
+  <li><a href="https://astro.build/">Astro</a></li>
   <li><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></li>
   <li><a href="https://socket.io/">Socket.io</a></li>
   <li><a href="https://pandas.pydata.org/">Pandas</a></li>

@@ -4,7 +4,7 @@
 - Artificial Intelligence student and Tech Geek👨‍💻! 
 - Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
 - Currently learning and practicing [Librosa](https://librosa.org/doc/latest/index.html) 🎵🤖👨‍💻!
-- Interested in **Artificial Intelligence Applications in the dev space**
+- Interested in **Artificial Intelligence Applications in the dev space and Emergent Hardware for AI**
 - Sophomore at Indian Institute of Technology, Gandhinagar, department of Computer Science and Engineering 👨‍💻👨‍🎓
 
 ---
